@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CD91CE792303B96E00187DD4 /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD91CE782303B96E00187DD4 /* Movie.swift */; };
 		CD9DA7C32303B6FE00694BB2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9DA7C22303B6FE00694BB2 /* AppDelegate.swift */; };
 		CD9DA7C52303B6FE00694BB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9DA7C42303B6FE00694BB2 /* ViewController.swift */; };
 		CD9DA7C82303B6FE00694BB2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD9DA7C62303B6FE00694BB2 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CD91CE782303B96E00187DD4 /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		CD9DA7BF2303B6FE00694BB2 /* Movie Posters.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Movie Posters.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD9DA7C22303B6FE00694BB2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD9DA7C42303B6FE00694BB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 		CD9DA7F32303B70B00694BB2 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				CD91CE782303B96E00187DD4 /* Movie.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 			files = (
 				CD9DA7CB2303B6FE00694BB2 /* Movie_Posters.xcdatamodeld in Sources */,
 				CD9DA7C52303B6FE00694BB2 /* ViewController.swift in Sources */,
+				CD91CE792303B96E00187DD4 /* Movie.swift in Sources */,
 				CD9DA7C32303B6FE00694BB2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
